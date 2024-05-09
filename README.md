@@ -44,6 +44,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM**[[paper]](https://arxiv.org/abs/2404.17283) ![](https://img.shields.io/badge/COLING%202024-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **TrumorGPT: Query Optimization and Semantic Reasoning over Networks for Automated Fact-Checking**[[paper]](https://doi.org/10.1109/CISS59072.2024.10480162) ![](https://img.shields.io/badge/CISS%202024-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **Large Language Model Agent for Fake News Detection**[[paper]](https://arxiv.org/abs/2405.01593) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
+- **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ### As a Decision Maker/Explainer
 
@@ -65,6 +66,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **The Perils and Promises of Fact-Checking with Large Language Models**[[paper]](https://doi.org/10.3389%2Ffrai.2024.1341697) ![](https://img.shields.io/badge/Frontiers%20in%20AI-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**[[paper]](https://arxiv.org/abs/2403.03170) ![](https://img.shields.io/badge/CVPR%202024-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**[[paper]](https://arxiv.org/abs/2403.14171) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
+- **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ## Other Tasks
 - **[Check-worthy Claim Detection] Claim Check-Worthiness Detection: How Well do LLMs Grasp Annotation Guidelines?**[[paper]](https://arxiv.org/abs/2404.12174) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.04-blue)
