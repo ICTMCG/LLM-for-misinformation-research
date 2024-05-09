@@ -22,6 +22,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **DELL: Generating Reactions and Explanations for LLM-Based Misinformation Detection**[[paper]](https://arxiv.org/abs/2402.10426) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **Enhancing large language model capabilities for rumor detection with Knowledge-Powered Prompting**[[paper]](https://doi.org/10.1016/j.engappai.2024.108259) ![](https://img.shields.io/badge/EAAI-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **RumorLLM: A Rumor Large Language Model-Based Fake-News-Detection Data-Augmentation Approach**[[paper]](https://doi.org/10.3390/app14083532) ![](https://img.shields.io/badge/Applied%20Science-orange) ![](https://img.shields.io/badge/2024.04-blue)
+- **Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom**[[paper]](https://doi.org/10.1145/3589334.3645471) ![](https://img.shields.io/badge/WWW%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ### As a Tool User
 
