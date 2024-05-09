@@ -71,6 +71,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**[[paper]](https://arxiv.org/abs/2403.03170) ![](https://img.shields.io/badge/CVPR%202024-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **Multimodal Large Language Models to Support Real-World Fact-Checking**[[paper]](https://arxiv.org/abs/2403.03627) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**[[paper]](https://arxiv.org/abs/2403.14171) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
+- **Explaining Misinformation Detection Using Large Language Models**[[paper]](https://doi.org/10.3390/electronics13091673) ![](https://img.shields.io/badge/Electronics-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Exploring the Potential of the Large Language Models (LLMs) in Identifying Misleading News Headlines**[[paper]](https://arxiv.org/abs/2405.03153) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
