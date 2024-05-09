@@ -29,7 +29,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 > Let an LLM be an agent that has access to external tools like search engines, deepfake detectors, etc.
 
 - **Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models**[[paper]](https://arxiv.org/abs/2305.14623) ![](https://img.shields.io/badge/NAACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2023.05-blue)
-- **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**[[paper]](https://arxiv.org/abs/2307.13528) ![](https://img.shields.io/badge/NAACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2023.07-blue)
+- **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**[[paper]](https://arxiv.org/abs/2307.13528) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.07-blue)
 - **FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking**[[paper]](https://arxiv.org/abs/2309.00240) ![](https://img.shields.io/badge/APSIPA%20ASC%202023-orange) ![](https://img.shields.io/badge/2023.09-blue)
 - **Explainable Claim Verification via Knowledge-Grounded Reasoning withLarge Language Models**[[paper]](https://aclanthology.org/2023.findings-emnlp.416) ![](https://img.shields.io/badge/EMNLP%202023%20Findings-orange) ![](https://img.shields.io/badge/2023.10-blue)
 - **Language Models Hallucinate, but May Excel at Fact Verification**[[paper]](https://arxiv.org/abs/2310.14564) ![](https://img.shields.io/badge/NAACL%202024-orange)  ![](https://img.shields.io/badge/2023.10-blue)
