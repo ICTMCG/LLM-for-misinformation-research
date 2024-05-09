@@ -37,6 +37,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection**[[paper]](https://arxiv.org/abs/2402.07776) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **LEMMA: Towards LVLM-Enhanced Multimodal Misinformation Detection with External Knowledge Augmentation**[[paper]](https://arxiv.org/abs/2402.11943) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **Can Large Language Models Detect Misinformation in Scientific News Reporting?**[[paper]](https://arxiv.org/abs/2402.14268) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
+- **The Perils and Promises of Fact-Checking with Large Language Models**[[paper]](https://doi.org/10.3389%2Ffrai.2024.1341697) ![](https://img.shields.io/badge/Frontiers%20in%20AI-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**[[paper]](https://arxiv.org/abs/2403.03170) ![](https://img.shields.io/badge/CVPR%202024-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **Re-Search for The Truth: Multi-round Retrieval-augmented Large Language Models are Strong Fake News Detectors**[[paper]](https://arxiv.org/abs/2403.09747) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**[[paper]](https://arxiv.org/abs/2403.14171) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
@@ -61,10 +62,12 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Assessing the Reasoning Abilities of ChatGPT in the Context of Claim Verification**[[paper]](https://arxiv.org/abs/2402.10735) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **LEMMA: Towards LVLM-Enhanced Multimodal Misinformation Detection with External Knowledge Augmentation**[[paper]](https://arxiv.org/abs/2402.11943) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **Can Large Language Models Detect Misinformation in Scientific News Reporting?**[[paper]](https://arxiv.org/abs/2402.14268) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
+- **The Perils and Promises of Fact-Checking with Large Language Models**[[paper]](https://doi.org/10.3389%2Ffrai.2024.1341697) ![](https://img.shields.io/badge/Frontiers%20in%20AI-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**[[paper]](https://arxiv.org/abs/2403.03170) ![](https://img.shields.io/badge/CVPR%202024-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**[[paper]](https://arxiv.org/abs/2403.14171) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 
 ## Other Tasks
+- **[Check-worthy Claim Detection] Claim Check-Worthiness Detection: How Well do LLMs Grasp Annotation Guidelines?**[[paper]](https://arxiv.org/abs/2404.12174) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **[Fake News Propagation Simulation] From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News**[[paper]](https://arxiv.org/abs/2403.09498) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 
 ## Resources
