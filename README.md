@@ -21,6 +21,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection**[[paper]](https://arxiv.org/abs/2402.07776) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **DELL: Generating Reactions and Explanations for LLM-Based Misinformation Detection**[[paper]](https://arxiv.org/abs/2402.10426) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **Enhancing large language model capabilities for rumor detection with Knowledge-Powered Prompting**[[paper]](https://doi.org/10.1016/j.engappai.2024.108259) ![](https://img.shields.io/badge/EAAI-orange) ![](https://img.shields.io/badge/2024.03-blue)
+- **An Implicit Semantic Enhanced Fine-Grained Fake News Detection Method Based on Large Language Model**[[paper]](https://dx.doi.org/10.7544/issn1000-1239.202330967) ![](https://img.shields.io/badge/JCRAD-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **RumorLLM: A Rumor Large Language Model-Based Fake-News-Detection Data-Augmentation Approach**[[paper]](https://doi.org/10.3390/app14083532) ![](https://img.shields.io/badge/Applied%20Science-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom**[[paper]](https://doi.org/10.1145/3589334.3645471) ![](https://img.shields.io/badge/WWW%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
@@ -72,6 +73,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**[[paper]](https://arxiv.org/abs/2403.03170) ![](https://img.shields.io/badge/CVPR%202024-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **Multimodal Large Language Models to Support Real-World Fact-Checking**[[paper]](https://arxiv.org/abs/2403.03627) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**[[paper]](https://arxiv.org/abs/2403.14171) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
+- **An Implicit Semantic Enhanced Fine-Grained Fake News Detection Method Based on Large Language Model**[[paper]](https://dx.doi.org/10.7544/issn1000-1239.202330967) ![](https://img.shields.io/badge/JCRAD-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **Explaining Misinformation Detection Using Large Language Models**[[paper]](https://doi.org/10.3390/electronics13091673) ![](https://img.shields.io/badge/Electronics-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Exploring the Potential of the Large Language Models (LLMs) in Identifying Misleading News Headlines**[[paper]](https://arxiv.org/abs/2405.03153) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
@@ -87,6 +89,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 
 ## Other Tasks
 - **[Fake News Propagation Simulation] From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News**[[paper]](https://arxiv.org/abs/2403.09498) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
+- **[Misinformation Correction] Correcting Misinformation on Social Media with A Large Language Model**[[paper]](https://arxiv.org/abs/2403.11169) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 
 ## Resources
 - [**Combating Misinformation in the Age of LLMs: Opportunities and Challenges**](llm-misinformation.github.io): A survey of the opportunities (can we utilize LLMs to combat misinformation) and challenges (how to combat LLM-generated misinformation) of combating misinformation in the age of LLMs.
