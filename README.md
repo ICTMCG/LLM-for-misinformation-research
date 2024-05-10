@@ -75,7 +75,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**[[paper]](https://arxiv.org/abs/2403.14171) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **An Implicit Semantic Enhanced Fine-Grained Fake News Detection Method Based on Large Language Model**[[paper]](https://dx.doi.org/10.7544/issn1000-1239.202330967) ![](https://img.shields.io/badge/JCRAD-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **Explaining Misinformation Detection Using Large Language Models**[[paper]](https://doi.org/10.3390/electronics13091673) ![](https://img.shields.io/badge/Electronics-orange) ![](https://img.shields.io/badge/2024.04-blue)
-- **Rumour Evaluation with Very Large Language Models**[[paper]](https://arxiv.org/abs/2404.16859) ![](https://img.shields.io/badge/Electronics-orange) ![](https://img.shields.io/badge/2024.04-blue)
+- **Rumour Evaluation with Very Large Language Models**[[paper]](https://arxiv.org/abs/2404.16859) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Exploring the Potential of the Large Language Models (LLMs) in Identifying Misleading News Headlines**[[paper]](https://arxiv.org/abs/2405.03153) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
