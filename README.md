@@ -8,6 +8,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 > An LLM can be seen as a (sometimes not reliable) knowledge provider, an experienced expert in specific areas, and a relatively cheap data generator (compared with collecting from the real world). For example, LLMs could be a good analyzer of social commonsense/conventions.
 
 - **Cheap-fake Detection with LLM using Prompt Engineering**[[paper]](https://arxiv.org/abs/2306.02776) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.06-blue)
+- **Faking Fake News for Real Fake News Detection: Propaganda-Loaded Training Data Generation**[[paper]](https://doi.org/10.18653/v1/2023.acl-long.815) ![](https://img.shields.io/badge/ACL%202023-orange) ![](https://img.shields.io/badge/2023.07-blue)
 - **Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30214) ![](https://img.shields.io/badge/AAAI%202024-orange) ![](https://img.shields.io/badge/2023.09-blue)
 - **Detecting Misinformation with LLM-Predicted Credibility Signals and Weak Supervision**[[paper]](https://arxiv.org/abs/2309.07601) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.09-blue)
 - **FakeGPT: Fake News Generation, Explanation and Detection of Large Language Model**[[paper]](https://arxiv.org/abs/2210.05046) ![](https://img.shields.io/badge/arXiv-orange)  ![](https://img.shields.io/badge/2023.10-blue)
