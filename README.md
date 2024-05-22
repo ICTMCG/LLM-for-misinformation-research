@@ -29,7 +29,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 
 ### As a Tool User
 
-> Let an LLM be an agent that has access to external tools like search engines, deepfake detectors, etc.
+> Let an LLM be an agent having access to external tools like search engines, deepfake detectors, etc.
 
 - **Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models**[[paper]](https://arxiv.org/abs/2305.14623) ![](https://img.shields.io/badge/NAACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2023.05-blue)
 - **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**[[paper]](https://arxiv.org/abs/2307.13528) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.07-blue)
@@ -83,6 +83,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Exploring the Potential of the Large Language Models (LLMs) in Identifying Misleading News Headlines**[[paper]](https://arxiv.org/abs/2405.03153) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models**[[paper]](https://arxiv.org/abs/2405.09454) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
+- **Mining the Explainability and Generalization: Fact Verification Based on Self-Instruction**[[paper]](https://arxiv.org/abs/2405.12579) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ## Check-worthy Claim Detection
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
