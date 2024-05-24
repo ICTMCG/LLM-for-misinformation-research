@@ -18,7 +18,6 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Clean-label Poisoning Attack against Fake News Detection Models**[[paper]](https://doi.org/10.1109/BigData59044.2023.10386777) ![](https://img.shields.io/badge/BigData%202023-orange)  ![](https://img.shields.io/badge/2023.12-blue)
 - **Rumor Detection on Social Media with Crowd Intelligence and ChatGPT-Assisted Networks**[[paper]](https://doi.org/10.18653/v1/2023.emnlp-main.347) ![](https://img.shields.io/badge/EMNLP%202023-orange) ![](https://img.shields.io/badge/2023.12-blue)
 - **LLMs are Superior Feedback Providers: Bootstrapping Reasoning for Lie Detection with Self-Generated Feedback**[[paper]](https://tanushreebanerjee.github.io/pdfs/diplomacy_main.pdf) ![](https://img.shields.io/badge/2024.01-blue)
-- **FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**[[paper]](https://arxiv.org/abs/2402.05904) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **Can Large Language Models Detect Rumors on Social Media?**[[paper]](https://arxiv.org/abs/2402.03916) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection**[[paper]](https://arxiv.org/abs/2402.07776) ![](https://img.shields.io/badge/ACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **DELL: Generating Reactions and Explanations for LLM-Based Misinformation Detection**[[paper]](https://arxiv.org/abs/2402.10426) ![](https://img.shields.io/badge/ACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2024.02-blue)
@@ -67,7 +66,6 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
 - **A Revisit of Fake News Dataset with Augmented Fact-checking by ChatGPT**[[paper]](https://arxiv.org/abs/2312.11870) ![](https://img.shields.io/badge/arXiv-orange)  ![](https://img.shields.io/badge/2023.12-blue)
 - **Can Large Language Models Detect Rumors on Social Media?**[[paper]](https://arxiv.org/abs/2402.03916) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
-- **FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**[[paper]](https://arxiv.org/abs/2402.05904) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **DELL: Generating Reactions and Explanations for LLM-Based Misinformation Detection**[[paper]](https://arxiv.org/abs/2402.10426) ![](https://img.shields.io/badge/ACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **Assessing the Reasoning Abilities of ChatGPT in the Context of Claim Verification**[[paper]](https://arxiv.org/abs/2402.10735) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
 - **LEMMA: Towards LVLM-Enhanced Multimodal Misinformation Detection with External Knowledge Augmentation**[[paper]](https://arxiv.org/abs/2402.11943) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.02-blue)
@@ -90,6 +88,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 ## Check-worthy Claim Detection
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
 - **Claim Check-Worthiness Detection: How Well do LLMs Grasp Annotation Guidelines?**[[paper]](https://arxiv.org/abs/2404.12174) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.04-blue)
+- **Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**[[paper]](https://doi.org/10.1145/3589335.3651910) ![](https://img.shields.io/badge/WWW%202024%20Workshops-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ## Post-hoc Explanation Generation
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
