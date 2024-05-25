@@ -31,6 +31,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 
 > Let an LLM be an agent having access to external tools like search engines, deepfake detectors, etc.
 
+- **Fact-Checking Complex Claims with Program-Guided Reasoning**[[paper]](https://doi.org/10.18653/v1/2023.acl-long.386) ![](https://img.shields.io/badge/ACL%202023-orange)  ![](https://img.shields.io/badge/2023.05-blue)
 - **Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models**[[paper]](https://arxiv.org/abs/2305.14623) ![](https://img.shields.io/badge/NAACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2023.05-blue)
 - **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**[[paper]](https://arxiv.org/abs/2307.13528) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.07-blue)
 - **FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking**[[paper]](https://arxiv.org/abs/2309.00240) ![](https://img.shields.io/badge/APSIPA%20ASC%202023-orange) ![](https://img.shields.io/badge/2023.09-blue)
@@ -55,6 +56,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 > An LLM can directly output the final prediction and (optional) explanations.
 
 - **Large Language Models Can Rate News Outlet Credibility**[[paper]](https://arxiv.org/abs/2304.00228) ![](https://img.shields.io/badge/arXiv-orange)  ![](https://img.shields.io/badge/2023.04-blue)
+- **Fact-Checking Complex Claims with Program-Guided Reasoning**[[paper]](https://doi.org/10.18653/v1/2023.acl-long.386) ![](https://img.shields.io/badge/ACL%202023-orange)  ![](https://img.shields.io/badge/2023.05-blue)
 - **Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4**[[paper]](https://arxiv.org/abs/2305.14928) ![](https://img.shields.io/badge/arXiv-orange)  ![](https://img.shields.io/badge/2023.05-blue)
 - **Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models**[[paper]](https://arxiv.org/abs/2305.14623) ![](https://img.shields.io/badge/NAACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2023.05-blue)
 - **News Verifiers Showdown: A Comparative Performance Evaluation of ChatGPT 3.5, ChatGPT 4.0, Bing AI, and Bard in News Fact-Checking**[[paper]](https://arxiv.org/abs/2306.17176) ![](https://img.shields.io/badge/arXiv-orange)  ![](https://img.shields.io/badge/2023.06-blue)
