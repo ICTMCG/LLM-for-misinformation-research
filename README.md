@@ -26,6 +26,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **RumorLLM: A Rumor Large Language Model-Based Fake-News-Detection Data-Augmentation Approach**[[paper]](https://doi.org/10.3390/app14083532) ![](https://img.shields.io/badge/Applied%20Science-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom**[[paper]](https://doi.org/10.1145/3589334.3645471) ![](https://img.shields.io/badge/WWW%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Message Injection Attack on Rumor Detection under the Black-Box Evasion Setting Using Large Language Model**[[paper]](https://doi.org/10.1145/3589334.3648139) ![](https://img.shields.io/badge/WWW%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
+- **Towards Robust Evidence-Aware Fake News Detection via Improving Semantic Perception**[[paper]](https://aclanthology.org/2024.lrec-main.1443/) ![](https://img.shields.io/badge/LREC--COLING%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ### As a Tool User
 
@@ -46,8 +47,8 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**[[paper]](https://arxiv.org/abs/2403.03170) ![](https://img.shields.io/badge/CVPR%202024-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **Re-Search for The Truth: Multi-round Retrieval-augmented Large Language Models are Strong Fake News Detectors**[[paper]](https://arxiv.org/abs/2403.09747) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**[[paper]](https://arxiv.org/abs/2403.14171) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
-- **Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM**[[paper]](https://arxiv.org/abs/2404.17283) ![](https://img.shields.io/badge/COLING%202024-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **TrumorGPT: Query Optimization and Semantic Reasoning over Networks for Automated Fact-Checking**[[paper]](https://doi.org/10.1109/CISS59072.2024.10480162) ![](https://img.shields.io/badge/CISS%202024-orange) ![](https://img.shields.io/badge/2024.04-blue)
+- **Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM**[[paper]](https://aclanthology.org/2024.lrec-main.1209) ![](https://img.shields.io/badge/LREC--COLING%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Large Language Model Agent for Fake News Detection**[[paper]](https://arxiv.org/abs/2405.01593) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
@@ -87,10 +88,11 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models**[[paper]](https://arxiv.org/abs/2405.09454) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Mining the Explainability and Generalization: Fact Verification Based on Self-Instruction**[[paper]](https://arxiv.org/abs/2405.12579) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
-## Check-worthy Claim Detection
+## Claim Matching and Check-worthy Claim Detection
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
 - **Claim Check-Worthiness Detection: How Well do LLMs Grasp Annotation Guidelines?**[[paper]](https://arxiv.org/abs/2404.12174) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.04-blue)
 - **Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**[[paper]](https://doi.org/10.1145/3589335.3651910) ![](https://img.shields.io/badge/WWW%202024%20Workshops-orange) ![](https://img.shields.io/badge/2024.05-blue)
+- **SynDy: Synthetic Dynamic Dataset Generation Framework for Misinformation Tasks**[[paper]](https://arxiv.org/abs/2405.10700) ![](https://img.shields.io/badge/SIGIR%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ## Post-hoc Explanation Generation
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
