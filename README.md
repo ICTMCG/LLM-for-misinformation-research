@@ -27,6 +27,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom**[[paper]](https://doi.org/10.1145/3589334.3645471) ![](https://img.shields.io/badge/WWW%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Message Injection Attack on Rumor Detection under the Black-Box Evasion Setting Using Large Language Model**[[paper]](https://doi.org/10.1145/3589334.3648139) ![](https://img.shields.io/badge/WWW%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Towards Robust Evidence-Aware Fake News Detection via Improving Semantic Perception**[[paper]](https://aclanthology.org/2024.lrec-main.1443/) ![](https://img.shields.io/badge/LREC--COLING%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
+- **Let Silence Speak: Enhancing Fake News Detection with Generated Comments from Large Language Models**[[paper]](https://arxiv.org/abs/2405.16631) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ### As a Tool User
 
