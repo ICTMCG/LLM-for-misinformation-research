@@ -57,6 +57,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 
 > An LLM can directly output the final prediction and (optional) explanations.
 
+- **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**[[paper]](https://aclanthology.org/2023.ijcnlp-main.45/) ![](https://img.shields.io/badge/AACL%202023-orange)  ![](https://img.shields.io/badge/2023.02-blue)
 - **Large Language Models Can Rate News Outlet Credibility**[[paper]](https://arxiv.org/abs/2304.00228) ![](https://img.shields.io/badge/arXiv-orange)  ![](https://img.shields.io/badge/2023.04-blue)
 - **Fact-Checking Complex Claims with Program-Guided Reasoning**[[paper]](https://doi.org/10.18653/v1/2023.acl-long.386) ![](https://img.shields.io/badge/ACL%202023-orange)  ![](https://img.shields.io/badge/2023.05-blue)
 - **Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4**[[paper]](https://arxiv.org/abs/2305.14928) ![](https://img.shields.io/badge/arXiv-orange)  ![](https://img.shields.io/badge/2023.05-blue)
