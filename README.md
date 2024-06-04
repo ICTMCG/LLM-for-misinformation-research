@@ -104,6 +104,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 ## Other Tasks
 - **[Fake News Propagation Simulation] From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News**[[paper]](https://arxiv.org/abs/2403.09498) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **[Misinformation Correction] Correcting Misinformation on Social Media with A Large Language Model**[[paper]](https://arxiv.org/abs/2403.11169) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
+- **[Assisting Human Fact-Checking] On the Role of Large Language Models in Crowdsourcing Misinformation Assessment**[[paper]](https://doi.org/10.1609/icwsm.v18i1.31417) ![](https://img.shields.io/badge/ICWSM%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ## Surveys & Position Papers
 - **Large-Language-Model-Powered Agent-Based Framework for Misinformation and Disinformation Research: Opportunities and Open Challenges**: A research framework to generate customized agent-based social networks for disinformation simulations that would enable understanding and evaluating the phenomena whilst discussing open challenges.[[paper]](https://arxiv.org/abs/2310.07545) ![](https://img.shields.io/badge/IEEE%20S&P-orange) ![](https://img.shields.io/badge/2023.10-blue)
