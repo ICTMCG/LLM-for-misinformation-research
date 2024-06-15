@@ -89,6 +89,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Exploring the Potential of the Large Language Models (LLMs) in Identifying Misleading News Headlines**[[paper]](https://arxiv.org/abs/2405.03153) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models**[[paper]](https://arxiv.org/abs/2405.09454) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Mining the Explainability and Generalization: Fact Verification Based on Self-Instruction**[[paper]](https://arxiv.org/abs/2405.12579) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
+- **Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models**[[paper]](https://arxiv.org/abs/2406.02143) ![](https://img.shields.io/badge/ACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2024.06-blue)
 
 ## Claim Matching and Check-worthy Claim Detection
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
