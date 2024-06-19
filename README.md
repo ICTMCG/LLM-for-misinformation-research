@@ -105,6 +105,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 ## Other Tasks
 - **[Fake News Propagation Simulation] From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News**[[paper]](https://arxiv.org/abs/2403.09498) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **[Misinformation Correction] Correcting Misinformation on Social Media with A Large Language Model**[[paper]](https://arxiv.org/abs/2403.11169) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
+- **[Fake News Data Annoatation] Enhancing Text Classification through LLM-Driven Active Learning and Human Annotation**[[paper]](https://aclanthology.org/2024.law-1.10/) ![](https://img.shields.io/badge/LAW%202024-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **[Assisting Human Fact-Checking] On the Role of Large Language Models in Crowdsourcing Misinformation Assessment**[[paper]](https://doi.org/10.1609/icwsm.v18i1.31417) ![](https://img.shields.io/badge/ICWSM%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 
 ## Surveys & Position Papers
