@@ -28,6 +28,8 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Message Injection Attack on Rumor Detection under the Black-Box Evasion Setting Using Large Language Model**[[paper]](https://doi.org/10.1145/3589334.3648139) ![](https://img.shields.io/badge/WWW%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Towards Robust Evidence-Aware Fake News Detection via Improving Semantic Perception**[[paper]](https://aclanthology.org/2024.lrec-main.1443/) ![](https://img.shields.io/badge/LREC--COLING%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Let Silence Speak: Enhancing Fake News Detection with Generated Comments from Large Language Models**[[paper]](https://arxiv.org/abs/2405.16631) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
+- **RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**[[paper]](https://arxiv.org/abs/2406.11093) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
+- **Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**[[paper]](https://arxiv.org/abs/2406.11260) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
 
 ### As a Tool User
 
@@ -52,6 +54,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM**[[paper]](https://aclanthology.org/2024.lrec-main.1209) ![](https://img.shields.io/badge/LREC--COLING%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Large Language Model Agent for Fake News Detection**[[paper]](https://arxiv.org/abs/2405.01593) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
+- **RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**[[paper]](https://arxiv.org/abs/2406.11093) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
 
 ### As a Decision Maker/Explainer
 
@@ -90,6 +93,8 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models**[[paper]](https://arxiv.org/abs/2405.09454) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Mining the Explainability and Generalization: Fact Verification Based on Self-Instruction**[[paper]](https://arxiv.org/abs/2405.12579) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models**[[paper]](https://arxiv.org/abs/2406.02143) ![](https://img.shields.io/badge/ACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2024.06-blue)
+- **RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**[[paper]](https://arxiv.org/abs/2406.11093) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
+
 
 ## Claim Matching and Check-worthy Claim Detection
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
