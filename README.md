@@ -30,6 +30,8 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Let Silence Speak: Enhancing Fake News Detection with Generated Comments from Large Language Models**[[paper]](https://arxiv.org/abs/2405.16631) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**[[paper]](https://arxiv.org/abs/2406.11093) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
 - **Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**[[paper]](https://arxiv.org/abs/2406.11260) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
+- **Zero-Shot Fact Verification via Natural Logic and Large Language Models**[[paper]](https://openreview.net/attachment?id=SxGFTTQwCm&name=pdf) ![](https://img.shields.io/badge/ARR%20June%202024-orange) ![](https://img.shields.io/badge/2024.06-blue)
+- **RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**[[paper]](https://openreview.net/attachment?id=TNOnM4CQsl&name=pdf) ![](https://img.shields.io/badge/ARR%20June%202024-orange) ![](https://img.shields.io/badge/2024.06-blue)
 
 ### As a Tool User
 
@@ -55,7 +57,8 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Large Language Model Agent for Fake News Detection**[[paper]](https://arxiv.org/abs/2405.01593) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**[[paper]](https://arxiv.org/abs/2406.11093) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
-
+- **RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**[[paper]](https://openreview.net/attachment?id=TNOnM4CQsl&name=pdf) ![](https://img.shields.io/badge/ARR%20June%202024-orange) ![](https://img.shields.io/badge/2024.06-blue)
+- 
 ### As a Decision Maker/Explainer
 
 > An LLM can directly output the final prediction and (optional) explanations.
@@ -94,7 +97,8 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Mining the Explainability and Generalization: Fact Verification Based on Self-Instruction**[[paper]](https://arxiv.org/abs/2405.12579) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models**[[paper]](https://arxiv.org/abs/2406.02143) ![](https://img.shields.io/badge/ACL%202024%20Findings-orange) ![](https://img.shields.io/badge/2024.06-blue)
 - **RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**[[paper]](https://arxiv.org/abs/2406.11093) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
-
+- **RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**[[paper]](https://openreview.net/attachment?id=TNOnM4CQsl&name=pdf) ![](https://img.shields.io/badge/ARR%20June%202024-orange) ![](https://img.shields.io/badge/2024.06-blue)
+- **Multilingual Fact-Checking using LLM**[[paper]](https://openreview.net/attachment?id=2KtL13evFm&name=pdf) ![](https://img.shields.io/badge/ARR%20June%202024-orange) ![](https://img.shields.io/badge/2024.06-blue)
 
 ## Claim Matching and Check-worthy Claim Detection
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
