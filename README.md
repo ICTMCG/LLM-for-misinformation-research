@@ -58,7 +58,8 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Argumentative Large Language Models for Explainable and Contestable Decision-Making**[[paper]](https://arxiv.org/abs/2405.02079) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.05-blue)
 - **RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**[[paper]](https://arxiv.org/abs/2406.11093) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
 - **RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**[[paper]](https://openreview.net/attachment?id=TNOnM4CQsl&name=pdf) ![](https://img.shields.io/badge/ARR%20June%202024-orange) ![](https://img.shields.io/badge/2024.06-blue)
-- 
+- **Multimodal Misinformation Detection using Large Vision-Language Models**[[paper]](https://arxiv.org/abs/2407.14321) ![](https://img.shields.io/badge/CIKM%202024-orange) ![](https://img.shields.io/badge/2024.07-blue)
+ 
 ### As a Decision Maker/Explainer
 
 > An LLM can directly output the final prediction and (optional) explanations.
@@ -99,6 +100,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**[[paper]](https://arxiv.org/abs/2406.11093) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.06-blue)
 - **RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**[[paper]](https://openreview.net/attachment?id=TNOnM4CQsl&name=pdf) ![](https://img.shields.io/badge/ARR%20June%202024-orange) ![](https://img.shields.io/badge/2024.06-blue)
 - **Multilingual Fact-Checking using LLM**[[paper]](https://openreview.net/attachment?id=2KtL13evFm&name=pdf) ![](https://img.shields.io/badge/ARR%20June%202024-orange) ![](https://img.shields.io/badge/2024.06-blue)
+- **Multimodal Misinformation Detection using Large Vision-Language Models**[[paper]](https://arxiv.org/abs/2407.14321) ![](https://img.shields.io/badge/CIKM%202024-orange) ![](https://img.shields.io/badge/2024.07-blue)
 
 ## Claim Matching and Check-worthy Claim Detection
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
