@@ -108,6 +108,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Multilingual Fact-Checking using LLM**[[paper]](https://openreview.net/attachment?id=2KtL13evFm&name=pdf) ![](https://img.shields.io/badge/ARR%20June%202024-orange) ![](https://img.shields.io/badge/2024.06-blue)
 - **Multimodal Misinformation Detection using Large Vision-Language Models**[[paper]](https://arxiv.org/abs/2407.14321) ![](https://img.shields.io/badge/CIKM%202024-orange) ![](https://img.shields.io/badge/2024.07-blue)
 - **Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection** [[paper]](https://arxiv.org/abs/2407.08952) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.07-blue)
+- **Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection** [[paper]](https://arxiv.org/abs/2407.12879) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.07-blue)
 - **Silver Lining in the Fake News Cloud: Can Large Language Models Help Detect Misinformation?**[[paper]](https://doi.org/10.1109/TAI.2024.3440248) ![](https://img.shields.io/badge/IEEE%20TAI%202024-orange) ![](https://img.shields.io/badge/2024.08-blue)
 - **Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs**[[paper]](https://arxiv.org/abs/2408.12060) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.08-blue)
 
