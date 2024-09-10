@@ -63,7 +63,9 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Multimodal Misinformation Detection using Large Vision-Language Models**[[paper]](https://arxiv.org/abs/2407.14321) ![](https://img.shields.io/badge/CIKM%202024-orange) ![](https://img.shields.io/badge/2024.07-blue)
 - **Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection** [[paper]](https://arxiv.org/abs/2407.08952) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.07-blue)
 - **LLM-Driven External Knowledge Integration Network for Rumor Detection**[[paper]](https://doi.org/10.1007/978-981-97-5678-0_1) ![](https://img.shields.io/badge/ICIC%202024-orange) ![](https://img.shields.io/badge/2024.08-blue)
- 
+- **Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs**[[paper]](https://arxiv.org/abs/2408.12060) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.08-blue)
+- **Web Retrieval Agents for Evidence-Based Misinformation Detection**[[paper]](https://arxiv.org/abs/2409.00009) ![](https://img.shields.io/badge/COLM%202024-orange) ![](https://img.shields.io/badge/2024.09-blue)
+
 ### As a Decision Maker/Explainer
 
 > An LLM can directly output the final prediction and (optional) explanations.
@@ -107,6 +109,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Multimodal Misinformation Detection using Large Vision-Language Models**[[paper]](https://arxiv.org/abs/2407.14321) ![](https://img.shields.io/badge/CIKM%202024-orange) ![](https://img.shields.io/badge/2024.07-blue)
 - **Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection** [[paper]](https://arxiv.org/abs/2407.08952) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.07-blue)
 - **Silver Lining in the Fake News Cloud: Can Large Language Models Help Detect Misinformation?**[[paper]](https://doi.org/10.1109/TAI.2024.3440248) ![](https://img.shields.io/badge/IEEE%20TAI%202024-orange) ![](https://img.shields.io/badge/2024.08-blue)
+- **Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs**[[paper]](https://arxiv.org/abs/2408.12060) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.08-blue)
 
 ## Claim Matching and Check-worthy Claim Detection
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
