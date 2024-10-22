@@ -66,6 +66,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **LLM-Driven External Knowledge Integration Network for Rumor Detection**[[paper]](https://doi.org/10.1007/978-981-97-5678-0_1) ![](https://img.shields.io/badge/ICIC%202024-orange) ![](https://img.shields.io/badge/2024.08-blue)
 - **Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs**[[paper]](https://arxiv.org/abs/2408.12060) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.08-blue)
 - **Web Retrieval Agents for Evidence-Based Misinformation Detection**[[paper]](https://arxiv.org/abs/2409.00009) ![](https://img.shields.io/badge/COLM%202024-orange) ![](https://img.shields.io/badge/2024.09-blue)
+- **Real-time Fake News from Adversarial Feedback**[[paper]](https://arxiv.org/abs/2410.14651) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.10-blue)
 
 ### As a Decision Maker/Explainer
 
