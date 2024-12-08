@@ -35,6 +35,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **FramedTruth: A Frame-Based Model Utilising Large Language Models for Misinformation Detection**[[paper]](https://doi.org/10.1007/978-981-97-4982-9_11) ![](https://img.shields.io/badge/ACIIDS%202024-orange) ![](https://img.shields.io/badge/2024.07-blue)
 - **Enhancing Fake News Detection through Dataset Augmentation Using Large Language Models**[[Thesis]](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3154951/no.ntnu:inspera:187264004:35303025.pdf) ![](https://img.shields.io/badge/NTNU-Thesis-orange) ![](https://img.shields.io/badge/2024.07-blue)
 - **DAAD: Dynamic Analysis and Adaptive Discriminator for Fake News Detection** [[paper]](https://arxiv.org/abs/2408.10883) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.08-blue)
+- **CoVLM: Leveraging Consensus from Vision-Language Models for Semi-supervised Multimodal Fake News Detection** [[paper]](https://openaccess.thecvf.com/content/ACCV2024/papers/Devank_CoVLM_Leveraging_Consensus_from_Vision-Language_Models_for_Semi-supervised_Multimodal_Fake_ACCV_2024_paper.pdf) ![](https://img.shields.io/badge/ACCV%202024-orange) ![](https://img.shields.io/badge/2024.12-blue)
 
 ### As a Tool User
 
@@ -68,6 +69,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Web Retrieval Agents for Evidence-Based Misinformation Detection**[[paper]](https://arxiv.org/abs/2409.00009) ![](https://img.shields.io/badge/COLM%202024-orange) ![](https://img.shields.io/badge/2024.09-blue)
 - **Real-time Fake News from Adversarial Feedback**[[paper]](https://arxiv.org/abs/2410.14651) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.10-blue)
 - **Resolving Unseen Rumors with Retrieval-Augmented Large Language Models**[[paper]](https://doi.org/10.1007/978-981-97-9440-9_25) ![](https://img.shields.io/badge/NLPCC%202024-orange) ![](https://img.shields.io/badge/2024.11-blue)
+- **Do not wait: Preemptive rumor detection with cooperative LLMs and accessible social context**[[paper]](https://doi.org/10.1016/j.ipm.2024.103995) ![](https://img.shields.io/badge/IPM-orange) ![](https://img.shields.io/badge/2024.12-blue)
 
 ### As a Decision Maker/Explainer
 
@@ -114,6 +116,7 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection** [[paper]](https://arxiv.org/abs/2407.12879) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.07-blue)
 - **Silver Lining in the Fake News Cloud: Can Large Language Models Help Detect Misinformation?**[[paper]](https://doi.org/10.1109/TAI.2024.3440248) ![](https://img.shields.io/badge/IEEE%20TAI%202024-orange) ![](https://img.shields.io/badge/2024.08-blue)
 - **Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs**[[paper]](https://arxiv.org/abs/2408.12060) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.08-blue)
+- **CoVLM: Leveraging Consensus from Vision-Language Models for Semi-supervised Multimodal Fake News Detection** [[paper]](https://openaccess.thecvf.com/content/ACCV2024/papers/Devank_CoVLM_Leveraging_Consensus_from_Vision-Language_Models_for_Semi-supervised_Multimodal_Fake_ACCV_2024_paper.pdf) ![](https://img.shields.io/badge/ACCV%202024-orange) ![](https://img.shields.io/badge/2024.12-blue)
 
 ## Claim Matching and Check-worthy Claim Detection
 - **Are Large Language Models Good Fact Checkers: A Preliminary Study**[[paper]](https://arxiv.org/abs/2311.17355) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2023.11-blue)
@@ -131,6 +134,8 @@ A curated paper list of misinformation research using (multi-modal) large langua
 - **[Misinformation Correction] Correcting Misinformation on Social Media with A Large Language Model**[[paper]](https://arxiv.org/abs/2403.11169) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **[Fake News Data Annoatation] Enhancing Text Classification through LLM-Driven Active Learning and Human Annotation**[[paper]](https://aclanthology.org/2024.law-1.10/) ![](https://img.shields.io/badge/LAW%202024-orange) ![](https://img.shields.io/badge/2024.03-blue)
 - **[Assisting Human Fact-Checking] On the Role of Large Language Models in Crowdsourcing Misinformation Assessment**[[paper]](https://doi.org/10.1609/icwsm.v18i1.31417) ![](https://img.shields.io/badge/ICWSM%202024-orange) ![](https://img.shields.io/badge/2024.05-blue)
+- **[Attacking Misinformation Detection] Fake News in Sheep's Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks**[[paper]](https://doi.org/10.1145/3637528.3671977) ![](https://img.shields.io/badge/KDD%202024-orange) ![](https://img.shields.io/badge/2024.08-blue)
+- **[Attacking Misinformation Detection] Attacking Misinformation Detection Using Adversarial Examples Generated by Language Models**[[paper]](https://arxiv.org/abs/2410.20940) ![](https://img.shields.io/badge/arXiv-orange) ![](https://img.shields.io/badge/2024.10-blue)
 
 ## Tutorials & Surveys & Position Papers
 - **Preventing and Detecting Misinformation Generated by Large Language Models**: A tutorial about prevention and detection techniques of LLM-generated misinformation, including an introduction of recent advances of LLM-based misinformation detection. [[Webpage]](https://sigir24-llm-misinformation.github.io/) [[Slides]](https://sigir24-llm-misinformation.github.io/slides/SIGIR%202024%20Tutorial-all-version5.pdf) ![](https://img.shields.io/badge/SIGIR%202024-orange) ![](https://img.shields.io/badge/2024.07-blue)
